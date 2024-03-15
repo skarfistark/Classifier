@@ -2,6 +2,7 @@ absl-py
 astunparse
 audioread
 blinker
+cairo
 certifi
 cffi
 charset-normalizer
