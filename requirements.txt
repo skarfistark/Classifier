@@ -34,7 +34,6 @@ namex
 numba
 numpy
 opt-einsum
-packagin
 platformdirs
 pooch
 protobuf
